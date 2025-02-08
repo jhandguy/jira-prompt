@@ -19,7 +19,7 @@ or downloaded as binary from the [releases page](https://github.com/jhandguy/jir
 ## Usage
 
 ```shell
-➜ ./jp
+➜ jp
 jira-prompt is a CLI to prompt Ollama using data from Jira issues.
 
 Usage:
