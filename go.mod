@@ -5,7 +5,7 @@ go 1.24
 require (
 	github.com/go-resty/resty/v2 v2.17.1
 	github.com/spf13/cobra v1.10.2
-	github.com/stretchr/testify v1.10.0
+	github.com/stretchr/testify v1.11.1
 	go.uber.org/zap v1.27.1
 )
 
